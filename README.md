@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri!;IT+Undergrad;Future+Cloud+Architect;Targeting+Tech+Internships" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**sri-orbit/sri-orbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**👨‍💻 About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 IT Undergrad passionate about Cloud Infrastructure and Software Development.
+* ☁️ Aspiring Cloud Architect focused on scalability and automation.
+* 🎯 Actively building projects and preparing for software engineering roles.
+* ⚡ Fun fact: Deep diving into C++ memory management and full-stack architecture.
+
+---
+
+**🛠️ Tech Stack & Learning Focus**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%2F_ML-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+* **Currently Exploring:** Deepening C++ concepts (OOP, manual memory management, templates) alongside Web Development and Cloud Services.
+
+---
+
+**📈 GitHub Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sri-orbit&show_icons=true&theme=radium&hide_border=true" alt="Sri's GitHub Stats" />
+</p>
